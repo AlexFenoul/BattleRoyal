@@ -1,0 +1,13 @@
+C:\M2\C#\TP\BattleRoyale\BattleRoyale\bin\Debug\netcoreapp3.1\BattleRoyale.exe
+C:\M2\C#\TP\BattleRoyale\BattleRoyale\bin\Debug\netcoreapp3.1\BattleRoyale.deps.json
+C:\M2\C#\TP\BattleRoyale\BattleRoyale\bin\Debug\netcoreapp3.1\BattleRoyale.runtimeconfig.json
+C:\M2\C#\TP\BattleRoyale\BattleRoyale\bin\Debug\netcoreapp3.1\BattleRoyale.runtimeconfig.dev.json
+C:\M2\C#\TP\BattleRoyale\BattleRoyale\bin\Debug\netcoreapp3.1\BattleRoyale.dll
+C:\M2\C#\TP\BattleRoyale\BattleRoyale\bin\Debug\netcoreapp3.1\BattleRoyale.pdb
+C:\M2\C#\TP\BattleRoyale\BattleRoyale\obj\Debug\netcoreapp3.1\BattleRoyale.csprojAssemblyReference.cache
+C:\M2\C#\TP\BattleRoyale\BattleRoyale\obj\Debug\netcoreapp3.1\BattleRoyale.AssemblyInfoInputs.cache
+C:\M2\C#\TP\BattleRoyale\BattleRoyale\obj\Debug\netcoreapp3.1\BattleRoyale.AssemblyInfo.cs
+C:\M2\C#\TP\BattleRoyale\BattleRoyale\obj\Debug\netcoreapp3.1\BattleRoyale.csproj.CoreCompileInputs.cache
+C:\M2\C#\TP\BattleRoyale\BattleRoyale\obj\Debug\netcoreapp3.1\BattleRoyale.dll
+C:\M2\C#\TP\BattleRoyale\BattleRoyale\obj\Debug\netcoreapp3.1\BattleRoyale.pdb
+C:\M2\C#\TP\BattleRoyale\BattleRoyale\obj\Debug\netcoreapp3.1\BattleRoyale.genruntimeconfig.cache
